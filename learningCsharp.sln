@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learningCsharp", "learningCsharp\learningCsharp.csproj", "{D0082CC6-0E83-4C3E-B72E-09E3C79EECE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "TypeConversion\TypeConversion.csproj", "{7C1D9D52-FDBC-45F1-9A4B-19AABA3ACA6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D0082CC6-0E83-4C3E-B72E-09E3C79EECE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0082CC6-0E83-4C3E-B72E-09E3C79EECE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0082CC6-0E83-4C3E-B72E-09E3C79EECE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1D9D52-FDBC-45F1-9A4B-19AABA3ACA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1D9D52-FDBC-45F1-9A4B-19AABA3ACA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1D9D52-FDBC-45F1-9A4B-19AABA3ACA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1D9D52-FDBC-45F1-9A4B-19AABA3ACA6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
